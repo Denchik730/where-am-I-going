@@ -1,0 +1,5 @@
+.people__said {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px,258px));
+  gap: 50px;
+}

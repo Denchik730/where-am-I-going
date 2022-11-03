@@ -1,0 +1,8 @@
+.where-go {
+  padding: 100px 48px 100px 48px;
+  display: grid;
+  /* grid-template-columns: repeat(auto-fit, minmax(514px, 592px)) ; */
+  grid-template-columns: minmax(514px, 592px) 400px ;
+  gap: 100px;
+  align-items: center;
+}

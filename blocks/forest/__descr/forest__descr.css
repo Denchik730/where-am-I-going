@@ -1,0 +1,7 @@
+.forest__descr {
+  max-width: 415px;
+  padding: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}

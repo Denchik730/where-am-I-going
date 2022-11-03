@@ -1,0 +1,7 @@
+.where-go__img {
+  width: 400px;
+  height: 400px;
+  max-width: 100%;
+  /* height: 100%; */
+  object-fit: cover;
+}
