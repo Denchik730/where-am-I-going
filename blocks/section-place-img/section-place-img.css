@@ -3,3 +3,12 @@
   height: 100%;
   object-fit: cover;
 }
+
+
+@media screen and (max-width: 425px) {
+  .section-place-img {
+    min-height: 320px;
+  }
+
+
+}

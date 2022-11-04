@@ -1,0 +1,8 @@
+.hamburger__divider {
+  display: block;
+  height: 2px;
+  width: 100%;
+  background-color: #010101;
+  margin-bottom: 2px;
+  transition: 0.5s all;
+}

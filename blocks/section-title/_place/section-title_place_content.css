@@ -2,3 +2,9 @@
   margin-top: 40px;
   max-width: 500px;
 }
+
+@media screen and (max-width: 576px) {
+  .section-title_place_content {
+    margin-top: 20px;
+  }
+}

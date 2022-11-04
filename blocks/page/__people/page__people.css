@@ -1,3 +1,21 @@
 .page__people {
   padding: 100px 48px 100px 48px;
 }
+
+@media screen and (max-width: 710px) {
+  .page__people {
+    padding: 50px 24px 50px 24px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .page__people {
+    padding: 50px 16px 50px 16px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .page__people {
+    padding: 50px 10px 50px 10px;
+  }
+}

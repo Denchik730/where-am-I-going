@@ -7,10 +7,16 @@
 @import url(../blocks/page/__grid-container/page__grid-container.css);
 @import url(../blocks/page/__people/page__people.css);
 
+@import url(../blocks/hamburger/hamburger.css);
+@import url(../blocks/hamburger/_active/hamburger_active.css);
+@import url(../blocks/hamburger/__divider/hamburger__divider.css);
+@import url(../blocks/hamburger/__divider/_active/hamburger__divider_active.css);
+
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__links/header__links.css);
 @import url(../blocks/header/__link/header__link.css);
 @import url(../blocks/header/__link-hate/header__link-hate.css);
+@import url(../blocks/header/_active/header_active.css);
 
 @import url(../blocks/where-go/where-go.css);
 @import url(../blocks/where-go/__img/where-go__img.css);
@@ -31,7 +37,7 @@
 
 @import url(../blocks/section-place-img/section-place-img.css);
 
-@import url(../blocks/montain/montain.css);
+@import url(../blocks/mountain/mountain.css);
 
 @import url(../blocks/sea/sea.css);
 
@@ -41,6 +47,7 @@
 @import url(../blocks/people/__quote/people__quote.css);
 
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__year/footer__year.css);
 
 
 

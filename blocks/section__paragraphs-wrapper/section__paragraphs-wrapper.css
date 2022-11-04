@@ -3,3 +3,9 @@
   flex-direction: column;
   gap: 20px;
 }
+
+@media screen and (max-width: 425px) {
+  .section__paragraphs-wrapper {
+    gap: 15px;
+  }
+}

@@ -4,3 +4,16 @@
   justify-content: space-around;
   gap: 100px;
 }
+
+@media screen and (max-width: 576px) {
+  .people {
+    gap: 50px;
+  }
+
+}
+
+@media screen and (max-width: 425px) {
+  .people {
+    gap: 30px;
+  }
+}

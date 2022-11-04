@@ -1,0 +1,16 @@
+.hamburger {
+  display: none;
+}
+
+@media screen and (max-width: 425px) {
+  .hamburger {
+    display: block;
+    position: fixed;
+    right: 10px;
+    top: 25px;
+    transform: translateY(-50%);
+    width: 26px;
+    height: 12px;
+    cursor: pointer;
+  }
+}

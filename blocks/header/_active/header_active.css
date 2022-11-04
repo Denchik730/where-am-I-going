@@ -1,0 +1,7 @@
+
+@media screen and (max-width: 425px) {
+  .header_active {
+    left: 0;
+    transition: 0.5s all;
+  }
+}

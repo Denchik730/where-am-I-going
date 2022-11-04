@@ -1,4 +1,27 @@
 .section-paragraph {
+  max-width: 100%;
   margin-top: 0;
   margin-bottom: 0;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.15;
+
+}
+
+@media screen and (max-width: 710px) {
+  .section-paragraph {
+    font-size: 10px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .section-paragraph {
+    font-size: 8px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .section-paragraph {
+    font-size: 10px;
+  }
 }

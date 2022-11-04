@@ -1,56 +1,65 @@
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Raleway';
   font-style:  normal;
   font-weight: 100;
   font-display: swap;
-  src: url("./Roboto-Thin.woff2") format("woff2"),
-       url("./Roboto-Thin.woff") format("woff");
+  src: url("./Raleway-Thin.woff2") format("woff2"),
+       url("./Raleway-Thin.woff") format("woff");
 }
 
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Raleway';
   font-style:  normal;
   font-weight: 300;
   font-display: swap;
-  src: url("./Roboto-Light.woff2") format("woff2"),
-       url("./Roboto-Light.woff") format("woff");
+  src: url("./Raleway-Light.woff2") format("woff2"),
+       url("./Raleway-Light.woff") format("woff");
 }
 
 
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Raleway';
   font-style:  normal;
   font-weight: 400;
   font-display: swap;
-  src: url("./Roboto-Regular.woff2") format("woff2"),
-       url("./Roboto-Regular.woff") format("woff");
+  src: url("./Raleway-Regular.woff2") format("woff2"),
+       url("./Raleway-Regular.woff") format("woff");
 }
 
 
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Raleway';
   font-style:  normal;
   font-weight: 500;
   font-display: swap;
-  src: url("./Roboto-Medium.woff2") format("woff2"),
-       url("./Roboto-Medium.woff") format("woff");
+  src: url("./Raleway-Medium.woff2") format("woff2"),
+       url("./Raleway-Medium.woff") format("woff");
 }
 
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Raleway';
   font-style:  normal;
   font-weight: 700;
   font-display: swap;
-  src: url("./Roboto-Bold.woff2") format("woff2"),
-       url("./Roboto-Bold.woff") format("woff");
+  src: url("./Raleway-Bold.woff2") format("woff2"),
+       url("./Raleway-Bold.woff") format("woff");
 }
 
 @font-face {
-  font-family: 'Roboto';
+  font-family: 'Raleway';
+  font-style:  normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("./Raleway-ExtraBold.woff2") format("woff2"),
+       url("./Raleway-ExtraBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Raleway';
   font-style:  normal;
   font-weight: 900;
   font-display: swap;
-  src: url("./Roboto-Black.woff2") format("woff2"),
-       url("./Roboto-Black.woff") format("woff");
+  src: url("./Raleway-Black.woff2") format("woff2"),
+       url("./Raleway-Black.woff") format("woff");
 }
 
