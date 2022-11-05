@@ -3,7 +3,14 @@
   color: #010101;
   font-size: 14px;
   font-weight: 700;
+  transition: opacity 0.5s;
+
 }
+
+.header__link:hover {
+  opacity: .6;
+}
+
 
 @media screen and (max-width: 710px) {
   .header__link {

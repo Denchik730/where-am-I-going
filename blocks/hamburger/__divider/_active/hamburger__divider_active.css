@@ -1,0 +1,11 @@
+.hamburger__divider_active:nth-child(1) {
+  transform: translateY(3px) rotate(-45deg)
+}
+
+.hamburger__divider_active:nth-child(2) {
+  display: none
+}
+
+.hamburger__divider_active:nth-child(3) {
+  transform: translateY(-1px) rotate(45deg)
+}

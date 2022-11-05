@@ -1,0 +1,11 @@
+.forest__paragraphs-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+@media screen and (max-width: 425px) {
+  .forest__paragraphs-wrapper {
+    gap: 15px;
+  }
+}

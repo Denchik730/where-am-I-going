@@ -4,11 +4,9 @@
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__header/page__header.css);
 @import url(../blocks/page/__grid-container/page__grid-container.css);
-@import url(../blocks/page/__grid-container/page__grid-container.css);
 @import url(../blocks/page/__people/page__people.css);
 
 @import url(../blocks/hamburger/hamburger.css);
-@import url(../blocks/hamburger/_active/hamburger_active.css);
 @import url(../blocks/hamburger/__divider/hamburger__divider.css);
 @import url(../blocks/hamburger/__divider/_active/hamburger__divider_active.css);
 
@@ -22,7 +20,6 @@
 @import url(../blocks/where-go/__img/where-go__img.css);
 
 @import url(../blocks/forest/forest.css);
-@import url(../blocks/forest/__img/forest__img.css);
 @import url(../blocks/forest/__descr/forest__descr.css);
 
 @import url(../blocks/section-title/section-title.css);
